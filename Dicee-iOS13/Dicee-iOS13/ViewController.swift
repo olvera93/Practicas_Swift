@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Dicee-iOS13
 //
-//  Created by Gonzalo on 14/12/2021.
+//  Created by Gonzalo Olvera on 14/12/2021.
 //
 
 import UIKit
@@ -24,6 +24,12 @@ class ViewController: UIViewController {
     
     }
 
-
+    @IBAction func rollButtonPressed(_ sender: UIButton) {
+        
+        diveImageView1.image = #imageLiteral(resourceName: "DiceFour")
+        diceImageView2.image = #imageLiteral(resourceName: "DiceFour")
+        
+    }
+    
 }
 
