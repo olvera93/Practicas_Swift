@@ -2,5 +2,25 @@
 <Timeline
    version = "3.0">
    <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/olvera/Desktop/Practicas_Swift/Extensions.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=14&amp;EndingColumnNumber=0&amp;EndingLineNumber=2&amp;StartingColumnNumber=0&amp;StartingLineNumber=2&amp;Timestamp=663891940.791762"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/olvera/Desktop/Practicas_Swift/Extensions.playground#CharacterRangeLen=275&amp;CharacterRangeLoc=15&amp;EndingColumnNumber=21&amp;EndingLineNumber=14&amp;StartingColumnNumber=0&amp;StartingLineNumber=3&amp;Timestamp=663891940.791937"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/olvera/Desktop/Practicas_Swift/Extensions.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=270&amp;EndingColumnNumber=7&amp;EndingLineNumber=14&amp;StartingColumnNumber=1&amp;StartingLineNumber=14&amp;Timestamp=663891940.792048"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/olvera/Desktop/Practicas_Swift/Extensions.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=239&amp;EndingColumnNumber=7&amp;EndingLineNumber=12&amp;StartingColumnNumber=1&amp;StartingLineNumber=12&amp;Timestamp=663891940.792143"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
    </TimelineItems>
 </Timeline>
